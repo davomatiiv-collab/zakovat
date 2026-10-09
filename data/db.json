@@ -1,0 +1,407 @@
+{
+  "users": [
+    {
+      "id": "u-admin",
+      "username": "admin",
+      "name": "Akmal Saidov (Administrator)",
+      "role": "admin",
+      "schoolOrOrg": "Zakovat Intellektual Klubi Boshqarmasi",
+      "createdAt": "2026-10-09T12:25:25.730Z"
+    },
+    {
+      "id": "u-teacher-1",
+      "username": "muallim",
+      "name": "Rustam Qosimov (Zakovat murabbiyi)",
+      "role": "teacher",
+      "schoolOrOrg": "Toshkent sh. 1-son IDUM",
+      "createdAt": "2026-10-09T12:25:25.730Z"
+    },
+    {
+      "id": "u-teacher-2",
+      "username": "tarixchi",
+      "name": "Dilnoza Karimova (Tarix fani o‘qituvchisi)",
+      "role": "teacher",
+      "schoolOrOrg": "Samarqand sh. 21-son maktab",
+      "createdAt": "2026-10-09T12:25:25.730Z"
+    }
+  ],
+  "bankQuestions": [
+    {
+      "id": "bq-1",
+      "text": "Ushbu buyum qadimda Xitoyda kashf etilgan bo'lib, dastlab 'janubni ko'rsatuvchi qoshiq' deb atalgan. Keyinchalik u dengizchilik va geografik kashfiyotlar davrida butun dunyo bo'ylab keng tarqaldi. Bu qaysi asbob?",
+      "correctAnswer": "Kompas",
+      "explanation": "Kompas qadimgi Xitoyda magnitlangan temir qoshiq shaklida ixtiro qilingan bo'lib, keyinchalik Yevropaga yetib kelgan.",
+      "category": "Fan va texnika",
+      "difficulty": "oson",
+      "suggestedTimeSec": 60,
+      "points": 1,
+      "createdAt": "2026-10-09T12:25:25.729Z"
+    },
+    {
+      "id": "bq-2",
+      "text": "Alisher Navoiy o'zining mashhur 'Xamsa' dostonlar majmuasining ikkinchi dostonini qaysi afsonaviy oshiq-ma'shuqlarga bag'ishlagan?",
+      "correctAnswer": "Farhod va Shirin",
+      "explanation": "Navoiy 'Xamsa'sidagi dostonlar tartibi: Hayrat ul-abror, Farhod va Shirin, Layli va Majnun, Sab'ai sayyor, Saddi Iskandariy.",
+      "category": "Adabiyot",
+      "difficulty": "oson",
+      "suggestedTimeSec": 60,
+      "points": 1,
+      "createdAt": "2026-10-09T12:25:25.730Z"
+    },
+    {
+      "id": "bq-3",
+      "text": "Rim imperatori Yuliy Sezar miloddan avvalgi 47-yilda Pont podshosi Farnak ustidan qozongan tezkor g'alabasini Senatga yuborgan xatida uchta so'z bilan ifodalagan. Bu mashhur uchta so'zni ayting.",
+      "correctAnswer": "Keldim, ko'rdim, yengdim",
+      "explanation": "Lotincha 'Veni, vidi, vici' (Keldim, ko'rdim, g'alaba qozondim / yengdim).",
+      "category": "Tarix",
+      "difficulty": "orta",
+      "suggestedTimeSec": 60,
+      "points": 1,
+      "createdAt": "2026-10-09T12:25:25.730Z"
+    },
+    {
+      "id": "bq-4",
+      "text": "U qanchalik ko'p bo'lsa, siz shunchalik kam ko'rasiz. Diqqat, savol: gap nima haqida ketmoqda?",
+      "correctAnswer": "Qorong'ulik",
+      "explanation": "Qorong'ulik yoki zulmat qancha ko'payib borsa, inson ko'rish qobiliyati shuncha pasayadi.",
+      "category": "Mantiq",
+      "difficulty": "oson",
+      "suggestedTimeSec": 60,
+      "points": 1,
+      "createdAt": "2026-10-09T12:25:25.730Z"
+    },
+    {
+      "id": "bq-5",
+      "text": "Amir Temur saltanatining davlat ramzi va muhri bo'lgan uchta halqa (doira) nimani anglatadi?",
+      "correctAnswer": "Uch iqlim (yer yuzining uch qit'asi)",
+      "explanation": "Uchta tutash halqa yer yuzining o'sha paytda ma'lum bo'lgan uch qit'asi — Osiyo, Yevropa va Afrikaga hukmronlikni ifodalagan.",
+      "category": "Tarix",
+      "difficulty": "orta",
+      "suggestedTimeSec": 60,
+      "points": 1,
+      "createdAt": "2026-10-09T12:25:25.730Z"
+    },
+    {
+      "id": "bq-6",
+      "text": "Dunyodagi eng katta ko'l hisoblangan, biroq ulkan maydoni va suvining sho'rligi sababli 'dengiz' deb ataluvchi havzani toping.",
+      "correctAnswer": "Kaspiy dengizi",
+      "explanation": "Kaspiy — dunyodagi eng katta berk ko'l bo'lib, o'lchami va gidrologik xususiyatlari tufayli dengiz deb nomlanadi.",
+      "category": "Geografiya",
+      "difficulty": "oson",
+      "suggestedTimeSec": 60,
+      "points": 1,
+      "createdAt": "2026-10-09T12:25:25.730Z"
+    },
+    {
+      "id": "bq-7",
+      "text": "O'zbek xalqining buyuk qomusi hisoblangan 'Alpomish' dostonida qahramonning sadoqatli oti nima deb ataladi?",
+      "correctAnswer": "Boychibor",
+      "explanation": "Alpomish dostonida Alpomishning sevimli tulpori Boychibor deb ataladi.",
+      "category": "Adabiyot",
+      "difficulty": "oson",
+      "suggestedTimeSec": 60,
+      "points": 1,
+      "createdAt": "2026-10-09T12:25:25.730Z"
+    },
+    {
+      "id": "bq-8",
+      "text": "Inson tanasidagi eng katta ichki a'zo bo'lib, u 500 dan ortiq hayotiy muhim funksiyalarni bajaradi, jumladan qonni toksinlardan tozalaydi. Bu qaysi a'zo?",
+      "correctAnswer": "Jigar",
+      "explanation": "Jigar (liver) inson organizmidagi eng yirik ichki a'zo va asosiy biologik laboratoriya hisoblanadi.",
+      "category": "Biologiya",
+      "difficulty": "orta",
+      "suggestedTimeSec": 60,
+      "points": 1,
+      "createdAt": "2026-10-09T12:25:25.730Z"
+    },
+    {
+      "id": "bq-9",
+      "text": "Sharq Uyg'onish davrining buyuk allomasi Abu Rayhon Beruniy o'z davrida Yer radiusini qaysi hududda o'tkazgan geodezik o'lchovlar orqali aniq hisoblab chiqqan?",
+      "correctAnswer": "Nandna qal'asi",
+      "explanation": "Beruniy hozirgi Pokiston hududidagi Nandna qal'asi tepaligidan turib Yer shari radiusini juda yuqori aniqlikda (xatolik 1% dan kam) o'lchagan.",
+      "category": "Tarix",
+      "difficulty": "qiyin",
+      "suggestedTimeSec": 60,
+      "points": 1,
+      "createdAt": "2026-10-09T12:25:25.730Z"
+    },
+    {
+      "id": "bq-10",
+      "text": "Leonardo da Vinchi tomonidan chizilgan, hozirda Parijdagi Luvr muzeyida saqlanuvchi, sirliligi bilan butun dunyoni hayratga solgan mashhur portret asarini ayting.",
+      "correctAnswer": "Mona Liza",
+      "explanation": "Mona Liza (yoki Jokonda) — Leonardo da Vinchining eng taniqli durdonasi.",
+      "category": "San'at",
+      "difficulty": "oson",
+      "suggestedTimeSec": 60,
+      "points": 1,
+      "createdAt": "2026-10-09T12:25:25.730Z"
+    },
+    {
+      "id": "bq-11",
+      "text": "U har kuni ertalab boshini yo'qotadi, kechasi esa uni yana topadi. Diqqat, savol: bu qanday buyum?",
+      "correctAnswer": "Yostiq",
+      "explanation": "Yostiq ustiga kechasi inson boshi qo'yiladi, ertalab bosh undan olinadi.",
+      "category": "Mantiq",
+      "difficulty": "orta",
+      "suggestedTimeSec": 60,
+      "points": 1,
+      "createdAt": "2026-10-09T12:25:25.730Z"
+    },
+    {
+      "id": "bq-12",
+      "text": "1969-yil 20-iyulda 'Bu inson uchun kichik bir qadam, biroq butun insoniyat uchun ulkan sakrashdir' degan tarixiy so'zlarni aytgan birinchi fazogir kim edi?",
+      "correctAnswer": "Nil Armstrong",
+      "explanation": "Nil Armstrong Opolon-11 missiyasida Oy yuzasiga qadam qo'ygan birinchi inson bo'ldi.",
+      "category": "Fan va texnika",
+      "difficulty": "oson",
+      "suggestedTimeSec": 60,
+      "points": 1,
+      "createdAt": "2026-10-09T12:25:25.730Z"
+    },
+    {
+      "id": "bq-13",
+      "text": "Ibn Sino o'zining mashhur 'Tib qonunlari' asarida shunday yozadi: 'Agar barcha kasalliklar sababini bitta narsaga bog'lash kerak bo'lsa, bu...'. Ibn Sino nimani ko'rsatgan?",
+      "correctAnswer": "Harakatsizlik (kamharakatlik)",
+      "explanation": "Ibn Sino jismoniy harakatning inson salomatligi uchun bosh omil ekanini ta'kidlagan: 'Harakat har qanday dori o'rnini bosa oladi, ammo hech qanday dori harakat o'rnini bosolmaydi'.",
+      "category": "Tibbiyot",
+      "difficulty": "qiyin",
+      "suggestedTimeSec": 60,
+      "points": 1,
+      "createdAt": "2026-10-09T12:25:25.730Z"
+    },
+    {
+      "id": "bq-14",
+      "text": "Dunyodagi eng qadimgi va eng chuqur chuchuk suvli ko'l qaysi?",
+      "correctAnswer": "Baykal",
+      "explanation": "Baykal ko'lining chuqurligi 1642 metr bo'lib, sayyoramizdagi barcha chuchuk suv zaxirasining 20 foizini o'zida jamlagan.",
+      "category": "Geografiya",
+      "difficulty": "oson",
+      "suggestedTimeSec": 60,
+      "points": 1,
+      "createdAt": "2026-10-09T12:25:25.730Z"
+    },
+    {
+      "id": "bq-15",
+      "text": "Shaxmat taxtasida ikkita shoh orasidagi eng kichik masofa necha katakdan kam bo'lishi mumkin emas?",
+      "correctAnswer": "1 katak",
+      "explanation": "Shaxmat qoidasiga ko'ra, ikkita shoh hech qachon yonma-yon kataklarda tura olmaydi, ular orasida kamida bir katak bo'sh joy bo'lishi shart.",
+      "category": "Mantiq",
+      "difficulty": "orta",
+      "suggestedTimeSec": 60,
+      "points": 1,
+      "createdAt": "2026-10-09T12:25:25.730Z"
+    }
+  ],
+  "games": [
+    {
+      "id": "game-1791552637910",
+      "code": "988498",
+      "title": "Zakovat Intellektual O‘yini #988498",
+      "teacherId": "u-teacher-1",
+      "teacherName": "Zakovat murabbiyi",
+      "status": "in_progress",
+      "currentQuestionIndex": 0,
+      "startedAt": "2026-10-09T13:30:37.910Z",
+      "timerStartedAt": 1791552637910,
+      "questionDeadline": 1791552697910,
+      "timerRemainingMs": 60000,
+      "isTimerPaused": false,
+      "resultsPublished": false,
+      "questions": [
+        {
+          "id": "q-1791552637910",
+          "order": 1,
+          "text": "Qaysi daryo dunyodagi eng uzun daryo hisoblanadi?",
+          "correctAnswer": "Nil",
+          "explanation": "",
+          "timeLimitSec": 60,
+          "points": 1,
+          "category": "Mantiqiy savol"
+        }
+      ],
+      "createdAt": "2026-10-09T13:30:37.910Z",
+      "settings": {
+        "defaultTimeLimitSec": 60,
+        "defaultPoints": 1,
+        "allowAnswerEdit": true,
+        "autoProgress": false,
+        "caseSensitiveCheck": false,
+        "showLeaderboardAfterEachQuestion": true,
+        "revealExplanation": true
+      }
+    },
+    {
+      "id": "game-1791548732858",
+      "code": "631258",
+      "title": "Zakovat Maktab Saralash Bosqichi (Nusxa)",
+      "description": "O'quvchilar o'rtasida intellektual salohiyatni oshirishga mo'ljallangan namunaviy o'yin.",
+      "groupName": "9-sinflar o‘rtasida",
+      "teacherId": "u-teacher-1",
+      "teacherName": "Rustam Qosimov (Zakovat murabbiyi)",
+      "status": "in_progress",
+      "currentQuestionIndex": 0,
+      "questions": [
+        {
+          "id": "q-demo-1",
+          "order": 1,
+          "text": "Ushbu buyum qadimda Xitoyda kashf etilgan bo'lib, dastlab 'janubni ko'rsatuvchi qoshiq' deb atalgan. Keyinchalik u dengizchilik va geografik kashfiyotlar davrida butun dunyo bo'ylab keng tarqaldi. Bu qaysi asbob?",
+          "correctAnswer": "Kompas",
+          "explanation": "Kompas qadimgi Xitoyda magnitlangan temir qoshiq shaklida ixtiro qilingan bo'lib, keyinchalik Yevropaga yetib kelgan.",
+          "timeLimitSec": 60,
+          "points": 1,
+          "category": "Fan va texnika"
+        },
+        {
+          "id": "q-demo-2",
+          "order": 2,
+          "text": "Alisher Navoiy o'zining mashhur 'Xamsa' dostonlar majmuasining ikkinchi dostonini qaysi afsonaviy oshiq-ma'shuqlarga bag'ishlagan?",
+          "correctAnswer": "Farhod va Shirin",
+          "explanation": "Navoiy 'Xamsa'sidagi dostonlar tartibi: Hayrat ul-abror, Farhod va Shirin, Layli va Majnun, Sab'ai sayyor, Saddi Iskandariy.",
+          "timeLimitSec": 60,
+          "points": 1,
+          "category": "Adabiyot"
+        },
+        {
+          "id": "q-demo-3",
+          "order": 3,
+          "text": "Rim imperatori Yuliy Sezar miloddan avvalgi 47-yilda Pont podshosi Farnak ustidan qozongan tezkor g'alabasini Senatga yuborgan xatida uchta so'z bilan ifodalagan. Bu mashhur uchta so'zni ayting.",
+          "correctAnswer": "Keldim, ko'rdim, yengdim",
+          "explanation": "Lotincha 'Veni, vidi, vici' (Keldim, ko'rdim, g'alaba qozondim / yengdim).",
+          "timeLimitSec": 60,
+          "points": 1,
+          "category": "Tarix"
+        },
+        {
+          "id": "q-demo-4",
+          "order": 4,
+          "text": "U qanchalik ko'p bo'lsa, siz shunchalik kam ko'rasiz. Diqqat, savol: gap nima haqida ketmoqda?",
+          "correctAnswer": "Qorong'ulik",
+          "explanation": "Qorong'ulik yoki zulmat qancha ko'payib borsa, inson ko'rish qobiliyati shuncha pasayadi.",
+          "timeLimitSec": 60,
+          "points": 1,
+          "category": "Mantiq"
+        },
+        {
+          "id": "q-demo-5",
+          "order": 5,
+          "text": "Amir Temur saltanatining davlat ramzi va muhri bo'lgan uchta halqa (doira) nimani anglatadi?",
+          "correctAnswer": "Uch iqlim (yer yuzining uch qit'asi)",
+          "explanation": "Uchta tutash halqa yer yuzining o'sha paytda ma'lum bo'lgan uch qit'asi — Osiyo, Yevropa va Afrikaga hukmronlikni ifodalagan.",
+          "timeLimitSec": 60,
+          "points": 1,
+          "category": "Tarix"
+        }
+      ],
+      "settings": {
+        "defaultTimeLimitSec": 60,
+        "defaultPoints": 1,
+        "allowAnswerEdit": true,
+        "autoProgress": false,
+        "caseSensitiveCheck": false,
+        "showLeaderboardAfterEachQuestion": true,
+        "revealExplanation": true
+      },
+      "resultsPublished": false,
+      "createdAt": "2026-10-09T12:25:32.858Z",
+      "isTimerPaused": true,
+      "timerStartedAt": 1791551583021,
+      "questionDeadline": 1791551643021,
+      "timerRemainingMs": 49988,
+      "startedAt": "2026-10-09T13:13:03.021Z"
+    },
+    {
+      "id": "game-demo-1",
+      "code": "749201",
+      "title": "Zakovat Maktab Saralash Bosqichi",
+      "description": "O'quvchilar o'rtasida intellektual salohiyatni oshirishga mo'ljallangan namunaviy o'yin.",
+      "groupName": "9-sinflar o‘rtasida",
+      "teacherId": "u-teacher-1",
+      "teacherName": "Rustam Qosimov (Zakovat murabbiyi)",
+      "status": "in_progress",
+      "currentQuestionIndex": 1,
+      "questions": [
+        {
+          "id": "q-demo-1",
+          "order": 1,
+          "text": "Ushbu buyum qadimda Xitoyda kashf etilgan bo'lib, dastlab 'janubni ko'rsatuvchi qoshiq' deb atalgan. Keyinchalik u dengizchilik va geografik kashfiyotlar davrida butun dunyo bo'ylab keng tarqaldi. Bu qaysi asbob?",
+          "correctAnswer": "Kompas",
+          "explanation": "Kompas qadimgi Xitoyda magnitlangan temir qoshiq shaklida ixtiro qilingan bo'lib, keyinchalik Yevropaga yetib kelgan.",
+          "timeLimitSec": 60,
+          "points": 1,
+          "category": "Fan va texnika"
+        },
+        {
+          "id": "q-demo-2",
+          "order": 2,
+          "text": "Alisher Navoiy o'zining mashhur 'Xamsa' dostonlar majmuasining ikkinchi dostonini qaysi afsonaviy oshiq-ma'shuqlarga bag'ishlagan?",
+          "correctAnswer": "Farhod va Shirin",
+          "explanation": "Navoiy 'Xamsa'sidagi dostonlar tartibi: Hayrat ul-abror, Farhod va Shirin, Layli va Majnun, Sab'ai sayyor, Saddi Iskandariy.",
+          "timeLimitSec": 60,
+          "points": 1,
+          "category": "Adabiyot"
+        },
+        {
+          "id": "q-demo-3",
+          "order": 3,
+          "text": "Rim imperatori Yuliy Sezar miloddan avvalgi 47-yilda Pont podshosi Farnak ustidan qozongan tezkor g'alabasini Senatga yuborgan xatida uchta so'z bilan ifodalagan. Bu mashhur uchta so'zni ayting.",
+          "correctAnswer": "Keldim, ko'rdim, yengdim",
+          "explanation": "Lotincha 'Veni, vidi, vici' (Keldim, ko'rdim, g'alaba qozondim / yengdim).",
+          "timeLimitSec": 60,
+          "points": 1,
+          "category": "Tarix"
+        },
+        {
+          "id": "q-demo-4",
+          "order": 4,
+          "text": "U qanchalik ko'p bo'lsa, siz shunchalik kam ko'rasiz. Diqqat, savol: gap nima haqida ketmoqda?",
+          "correctAnswer": "Qorong'ulik",
+          "explanation": "Qorong'ulik yoki zulmat qancha ko'payib borsa, inson ko'rish qobiliyati shuncha pasayadi.",
+          "timeLimitSec": 60,
+          "points": 1,
+          "category": "Mantiq"
+        },
+        {
+          "id": "q-demo-5",
+          "order": 5,
+          "text": "Amir Temur saltanatining davlat ramzi va muhri bo'lgan uchta halqa (doira) nimani anglatadi?",
+          "correctAnswer": "Uch iqlim (yer yuzining uch qit'asi)",
+          "explanation": "Uchta tutash halqa yer yuzining o'sha paytda ma'lum bo'lgan uch qit'asi — Osiyo, Yevropa va Afrikaga hukmronlikni ifodalagan.",
+          "timeLimitSec": 60,
+          "points": 1,
+          "category": "Tarix"
+        }
+      ],
+      "settings": {
+        "defaultTimeLimitSec": 60,
+        "defaultPoints": 1,
+        "allowAnswerEdit": true,
+        "autoProgress": false,
+        "caseSensitiveCheck": false,
+        "showLeaderboardAfterEachQuestion": true,
+        "revealExplanation": true
+      },
+      "resultsPublished": false,
+      "createdAt": "2026-10-09T12:25:25.731Z",
+      "isTimerPaused": true,
+      "timerStartedAt": 1791548877776,
+      "questionDeadline": 1791548937776,
+      "timerRemainingMs": 59638,
+      "startedAt": "2026-10-09T12:25:42.832Z"
+    }
+  ],
+  "participants": [
+    {
+      "id": "p-1791549277436-512",
+      "gameId": "game-demo-1",
+      "name": "ilhomjonov izhoriddin",
+      "studentIdOrGroup": "now",
+      "joinedAt": "2026-10-09T12:34:37.436Z",
+      "isOnline": true,
+      "score": 0,
+      "correctCount": 0,
+      "wrongCount": 0,
+      "unansweredCount": 2
+    }
+  ],
+  "answers": []
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Zakovat — Interaktiv Intellektual O‘yin Platformasi",
+  "description": "O‘qituvchilar va o‘quvchilar uchun real vaqt rejimida ishlovchi interaktiv intellektual savol-javob platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
